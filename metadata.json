@@ -1,0 +1,8 @@
+{
+  "name": "16.2 Time Series Graphs - Cambridge Stage 8 Maths",
+  "description": "Interactive Cambridge Lower Secondary Mathematics Stage 8 teaching resource for drawing and interpreting time series graphs, identifying trends, and practicing exam-style questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
